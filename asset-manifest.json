@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ea5e67e3.css",
+    "main.js": "/static/js/main.b94245dc.js",
+    "static/media/1.png": "/static/media/1.4280b67780cb772c3915.png",
+    "static/media/ads2.gif": "/static/media/ads2.b70af893b3ddb9b71990.gif",
+    "static/media/2.png": "/static/media/2.ba83eba34d930eaf4518.png",
+    "static/media/bannergif.gif": "/static/media/bannergif.d42b9780fb35653e7e7e.gif",
+    "static/media/me.png": "/static/media/me.f89433778ee445c8e8ff.png",
+    "static/media/imgcreator2.jpg": "/static/media/imgcreator2.4eef877525e915891e38.jpg",
+    "static/media/banner1.jpg": "/static/media/banner1.4b322ef8f949f6c237ee.jpg",
+    "static/media/imgcreator.jpg": "/static/media/imgcreator.e75d98534ce0182160a8.jpg",
+    "static/media/hq.jpg": "/static/media/hq.d80221a8ec609e3ffc73.jpg",
+    "static/media/creator 900x400.jpg": "/static/media/creator 900x400.f5815c6435467b0b58b7.jpg",
+    "static/media/ads1.jpg": "/static/media/ads1.de351192f654c24f5e9d.jpg",
+    "static/media/3.webp": "/static/media/3.ec5a09e39b9e1bfaf15b.webp",
+    "static/media/sample product.jpg": "/static/media/sample product.1b631e6c450920cc771c.jpg",
+    "static/media/LOGO.png": "/static/media/LOGO.eecc0bb8bc7c754bfee8.png",
+    "static/media/vision.jpg": "/static/media/vision.5a512f77d4bf09cedbee.jpg",
+    "static/media/mens banner2.jpg": "/static/media/mens banner2.f1b353e363abd3a4578e.jpg",
+    "static/media/blank_profile.webp": "/static/media/blank_profile.efadb13dba95b5bc918b.webp",
+    "index.html": "/index.html",
+    "main.ea5e67e3.css.map": "/static/css/main.ea5e67e3.css.map",
+    "main.b94245dc.js.map": "/static/js/main.b94245dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea5e67e3.css",
+    "static/js/main.b94245dc.js"
+  ]
+}
